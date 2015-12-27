@@ -1,4 +1,10 @@
 # C-DEMO
 标C 的基础实例
 
-hello world
+#include <stdio.h>
+ int i = 1;
+ 
+ int main(void){
+    int a = i + 2
+    print("%d\n",i)
+ }
